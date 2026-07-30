@@ -1,4 +1,8 @@
+## Live Dashboard
+
+🔗 [View Interactive Dashboard](https://datastudio.google.com/embed/u/0/reporting/b97cb5e1-d627-47ec-868d-ee07441594fa/page/p_ujyphnmr2d)
 # lookerstudio-SupplyChain-dashboard
+
 lookerstudio-sales-dashboard
  ├── README.md
  ├── screenshots/
