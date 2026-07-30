@@ -8,3 +8,9 @@ lookerstudio-sales-dashboard
  ├── sample_data.csv   (if allowed)
  ├── data_dictionary.md
  └── business_requirements.md
+Tools Used: 
+Looker Studio
+Google Sheets
+Excel
+SQL
+Power Query
