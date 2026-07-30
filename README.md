@@ -1,5 +1,5 @@
 # lookerstudio-SupplyChain-dashboard
-📂 lookerstudio-sales-dashboard
+lookerstudio-sales-dashboard
  ├── README.md
  ├── screenshots/
  │      dashboard1.png
