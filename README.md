@@ -1,4 +1,4 @@
-[View Interactive Dashboard](https://datastudio.google.com/embed/reporting/05bf4a13-12a4-422c-a918-40884092e485/page/p_ujyphnmr2d)
+[View Interactive Dashboard](https://datastudio.google.com/u/1/reporting/05bf4a13-12a4-422c-a918-40884092e485/page/p_ujyphnmr2d)
 # lookerstudio-SupplyChain-dashboard
 lookerstudio-sales-dashboard
  ├── README.md
